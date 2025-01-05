@@ -1,0 +1,3 @@
+/home/bolo/CLionProjects/TeoriaKodowania8/cmake-build-debug/CMakeFiles/TeoriaKodowania8.dir
+/home/bolo/CLionProjects/TeoriaKodowania8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bolo/CLionProjects/TeoriaKodowania8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
